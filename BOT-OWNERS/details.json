@@ -15,6 +15,7 @@
       "react": "🎊"
     }
   },
+  
   "urls": {
  "public-beta":"null",
  "commiunity":"null",
@@ -24,6 +25,10 @@
  "owners":"Prabath Kumara & Sachintha",
  "my-channel":"https://whatsapp.com/channel/0029Va9yT3I9WtC4rAtKSI1h",
  "our-email":"prabathmdofficial@gmail.com"
-  }
+  },
   
+"verify": {
+"code":"1029384756",
+"text":"PQHARGAKAVKWBGAKAAGSKSNTGAKSBH"
+}  
 }
