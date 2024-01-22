@@ -4,31 +4,27 @@
       "id": "94762280384",
       "react": "👨🏻‍💻"
     },
-    
     "co-owner": {
       "id": "94725881990",
       "react": "🦹🏼‍♂️"
     },
-    
     "official-other-owners": {
       "id": "94717782930,94761717506",
       "react": "🎊"
     }
   },
-  
   "urls": {
- "public-beta":"null",
- "commiunity":"null",
- "channel":"null",
- "official-website":"null",
- "github":"null",
- "owners":"Prabath Kumara & Sachintha",
- "my-channel":"https://whatsapp.com/channel/0029Va9yT3I9WtC4rAtKSI1h",
- "our-email":"prabathmdofficial@gmail.com"
+    "public-beta": "null",
+    "community": "null", 
+    "channel": "null",
+    "official-website": "null",
+    "github": "null",
+    "owners": "Prabath Kumara & Sachintha",
+    "my-channel": "https://whatsapp.com/channel/0029Va9yT3I9WtC4rAtKSI1h",
+    "our-email": "prabathmdofficial@gmail.com"
   },
-  
-"verify": {
-"code":"1029384756",
-"text":"PQHARGAKAVKWBGAKAAGSKSNTGAKSBH"
-}  
+  "verify": {
+    "code": "1029384756",
+    "text": "PQHARGAKAVKWBGAKAAGSKSNTGAKSBH"
+  }
 }
