@@ -16,9 +16,9 @@
   "urls": {
     "public-beta": "https://chat.whatsapp.com/Bnj9lNXgTjbFhooKIE63cm",
     "community": "null", 
-    "channel": "null",
-    "official-website": "null",
-    "github": "null",
+    "channel": "https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x",
+    "official-website": "https://prabath--md-official.vercel.app/",
+    "github": "https://github.com/prabathLK/PRABATH-MD",
     "owners": "Prabath Kumara & Sachintha",
     "my-channel": "https://whatsapp.com/channel/0029Va9yT3I9WtC4rAtKSI1h",
     "our-email": "prabathmdofficial@gmail.com"
@@ -28,6 +28,9 @@
     "text": "PQHARGAKAVKWBGAKAAGSKSNTGAKSBH"
   },
   "botData": {
-    "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL"
+    "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL",
+    "version":"2.0.5",
+    "isBetaUsers":"enter-numbers",
+    "isBetaTestTime":"false"
   }
 }
