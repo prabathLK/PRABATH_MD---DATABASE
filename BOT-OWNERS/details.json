@@ -31,6 +31,7 @@
     "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL",
     "version":"2.0.5",
     "isBetaUsers":"enter-numbers",
-    "isBetaTestTime":"false"
+    "isBetaTestTime":"false",
+    "isOwnerReactStatus":"false"
   }
 }
