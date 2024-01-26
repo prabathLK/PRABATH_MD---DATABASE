@@ -34,7 +34,7 @@
     "version":"2.0.5-(beta)",
     "isBetaUsers":"enter-numbers",
     "isBetaTestTime":"false",
-    "isOwnerReactStatus":"false",
-    "isUserReactStatus":"true",
+    "isOwnerReactStatus":"true",
+    "isUserReactStatus":"true"
   }
 }
