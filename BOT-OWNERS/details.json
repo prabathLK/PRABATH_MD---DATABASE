@@ -35,6 +35,7 @@
     "isBetaUsers":"enter-numbers",
     "isBetaTestTime":"false",
     "isOwnerReactStatus":"true",
-    "isUserReactStatus":"true"
+    "isUserReactStatus":"true",
+    "ReactFalseGroups":"120363092216825967@g.us",
   }
 }
