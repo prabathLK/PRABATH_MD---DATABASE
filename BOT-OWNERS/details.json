@@ -10,7 +10,7 @@
     },
     "official-other-owners": {
       "id": "94717782930,94761717506,94729361752,94779415698",
-      "react": "👾"
+      "react": "🌟"
     }
   },
   "urls": {
@@ -37,5 +37,11 @@
     "isOwnerReactStatus":"true",
     "isUserReactStatus":"true",
     "ReactFalseGroups":"120363092216825967@g.us"
-  }
+  },
+"premium": {
+"isMovieDlPaid":"-",
+"isXvDlPaid":"-"
+}
+
+  
 }
