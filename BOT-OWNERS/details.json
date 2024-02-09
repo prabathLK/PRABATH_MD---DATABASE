@@ -36,7 +36,9 @@
     "isBetaTestTime":"false",
     "isOwnerReactStatus":"true",
     "isUserReactStatus":"true",
-    "ReactFalseGroups":"120363092216825967@g.us,120363225726987963@g.us"
+    "ReactFalseGroups":"120363092216825967@g.us,120363225726987963@g.us",
+    "isSGUrl":"null",
+    "SupportGroupJid":"120363092216825967@g.us,120363225726987963@g.us"
   },
 "premium": {
 "isMovieDlPaid":"OTQ3NjIyODAzODR8MjAyNC0xMS0yNQ==,OTQ3MjkzMjUyMDJ8MjAyNC0wMi0wNw==",
