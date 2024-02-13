@@ -45,7 +45,14 @@
 "premium": {
 "isMovieDlPaid":"OTQ3NjIyODAzODR8MjAyNC0xMS0yNQ==,OTQ3MjkzMjUyMDJ8MjAyNC0wMi0wNw==",
 "isXvDlPaid":"OTQ3MjkzNjE3NTJ8MjAyNC0wMi0wNw=="
-}
-
+},
+"others": {
+"MDL":"WVVoU01HTklUVFpNZVRsNldWZE9iMkZYU25aa1F6VXhZME0xZVZsWGJITmtNa1kxVEcxR2QyTkRPRDA9",
+"MS":"Y2luZXNlYXJjaD9xPQ==",
+"MD":"Y2luZW1vdmllP3VybD0=",
+"TS":"Y2luZWVwaXNvZGU/dXJsPQ==",
+"DK":"Y2luZWRsbGluaz91cmw9",
+"TG":"Y2luZXR2c2hvdz91cmw9"
   
+} 
 }
