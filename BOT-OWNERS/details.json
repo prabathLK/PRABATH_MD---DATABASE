@@ -13,6 +13,11 @@
       "react": "👾"
     }
   },
+  
+  "apis": {
+    "GEMINI": "Example api key"
+  },
+  
   "urls": {
     "public-beta": "https://chat.whatsapp.com/Bnj9lNXgTjbFhooKIE63cm",
     "community": "https://chat.whatsapp.com/Df8AGf0TG5AHtSM3sPCuAI", 
