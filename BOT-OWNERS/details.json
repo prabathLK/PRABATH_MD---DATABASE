@@ -17,7 +17,8 @@
   "apis": {
     "GEMINI": "QUl6YVN5QndaN3FwYkRaZmJQVHRnV0hWMkcySk5WZW05RURLUmVF"
   },
-  
+
+
   "urls": {
     "public-beta": "https://chat.whatsapp.com/Bnj9lNXgTjbFhooKIE63cm",
     "community": "https://chat.whatsapp.com/Df8AGf0TG5AHtSM3sPCuAI", 
@@ -33,6 +34,7 @@
     "text": "PQHARGAKAVKWBGAKAAGSKSNTGAKSBH"
   },
   "botData": {
+    "buttoncondition":"buttoncondition",
     "startImage":"https://telegra.ph/file/3ea573f530caf18444d36.jpg",
     "extraText":"-",
     "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL",
