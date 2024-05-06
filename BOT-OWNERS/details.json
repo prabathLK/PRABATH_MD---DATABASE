@@ -34,7 +34,7 @@
     "text": "PQHARGAKAVKWBGAKAAGSKSNTGAKSBH"
   },
   "botData": {
-    "buttoncondition":"buttoncondition",
+    "buttoncondition":"env.BUTTONS == 'true' && !m.id?.startsWith('3EB') && !m.id?.startsWith('3A')",
     "startImage":"https://telegra.ph/file/3ea573f530caf18444d36.jpg",
     "extraText":"-",
     "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL",
