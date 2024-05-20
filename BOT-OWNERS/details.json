@@ -15,7 +15,8 @@
   },
   
   "apis": {
-    "GEMINI": "QUl6YVN5QndaN3FwYkRaZmJQVHRnV0hWMkcySk5WZW05RURLUmVF"
+    "GEMINI": "QUl6YVN5QndaN3FwYkRaZmJQVHRnV0hWMkcySk5WZW05RURLUmVF",
+    "IMAGINE": "null" 
   },
 
 
