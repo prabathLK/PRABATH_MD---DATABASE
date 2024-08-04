@@ -24,7 +24,7 @@
   "urls": {
     "public-beta": "https://chat.whatsapp.com/Bnj9lNXgTjbFhooKIE63cm",
     "community": "https://chat.whatsapp.com/KpWWjzcr2KU6pVflJ67oZg", 
-    "channel": "https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x",
+    "channel": "https://youtu.be/RW6FGfRXA10?si=5p7p1lAKLpXqLF6T",
     "official-website": "https://www.prabath-md-official-web.com",
     "github": "https://github.com/prabathLK/PRABATH-MD",
     "owners": "Prabath Kumara & Sachintha",
@@ -38,7 +38,7 @@
   "botData": {
     "buttoncondition":"configdb.BUTTONS == 'true' && !m.id?.startsWith('3EB') && !m.id?.startsWith('3A')",
     "startImage":"https://telegra.ph/file/3ea573f530caf18444d36.jpg",
-    "extraText":"Spoken English for beginners. ",
+    "extraText":"-",
     "anti-bot-id": "BAE5,QUEENAMDI,RGNK,CYBER,ZEROTWO,QUEENELISA,SUHAIL",
     "version":"2.1.2",
     "betaVersion":"2.1.3 (beta)",
@@ -50,7 +50,7 @@
     "isSGUrl":"SDUwRVRXVldvVXMycXFSMW9GR0s4OQ==,SlhJd0c0OWI1SXg1OFFScVVZVjdmSQ==,SXdGSTdJUjFtUGhEWFJiS1NLU0xZTA==,SWVTTUtJSHE3OXA5dzJnWGxSR0VJUg==,SHVlSHRhUDF3dlFLMmp1eHNuN2I5ag==",
     "SupportGroupJid":"120363234539789315@g.us,120363235440692525@g.us,120363233577042710@g.us,120363225726987963@g.us,120363068963474897@g.us",
     "isPublicGroupJid":"120363298694712171@g.us,120363092216825967@g.us,120363165641135639@g.us,120363242048824636@g.us,120363183301732504@g.us",
-    "AdService":"-",
+    "AdService":"Spoken English for beginners. Watch this awesome video. 👇",
     "AliveAd":"true"
   },
 "premium": {
