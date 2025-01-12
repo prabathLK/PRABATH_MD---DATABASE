@@ -17,6 +17,20 @@
 "ads": {
 "cmd_ads": "\n`🌟 𝗙𝗼𝗹𝗹𝗼𝘄 𝗨𝘀 - https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x`\n"
 },
+
+"channel-info": {
+    "prabath-react-status": "true",
+    "sachintha-react-status": "true",
+    "unofficial-react-status": "false",
+    "official-jid-prabath": "120363164613744019@newsletter",
+    "official-jid-sachintha": "120363229389517164@newsletter",
+    "unofficial-jids":"null",
+    "prabath-react": "❤️",
+    "sachintha-react":"💙",
+    "unofficial-react":"🚀"
+    
+    
+  },
   
   "apis": {
     "GEMINI": "QUl6YVN5QndaN3FwYkRaZmJQVHRnV0hWMkcySk5WZW05RURLUmVF",
@@ -37,6 +51,7 @@
     "my-channel": "https://whatsapp.com/channel/0029VaRvXg9HVvTXXQJ71a0s",
     "our-email": "prabathmdofficial@gmail.com"
   },
+  
   "verify": {
     "code": "1029384756",
     "text": "PQHARGAKAVKWBGAKAAGSKSNTGAKSBH"
